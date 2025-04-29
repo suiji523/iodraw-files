@@ -94,7 +94,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FI8OPE-p3hhHVf1YDgqs-22" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontFamily=Comic Sans MS;fontSize=19;fontColor=#000000;align=center;" parent="1" vertex="1">
-          <mxGeometry x="204" y="228" width="563" height="96" as="geometry" />
+          <mxGeometry x="120" y="70" width="563" height="96" as="geometry" />
         </mxCell>
         <mxCell id="FI8OPE-p3hhHVf1YDgqs-23" value="分布式爬虫" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontFamily=Comic Sans MS;fontSize=19;fontColor=#000000;align=center;" parent="1" vertex="1">
           <mxGeometry x="219" y="238" width="124" height="70" as="geometry" />
@@ -129,23 +129,11 @@
             <mxPoint x="522" y="376" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FI8OPE-p3hhHVf1YDgqs-32" value="" style="endArrow=classic;startArrow=classic;html=1;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fontFamily=Comic Sans MS;fontSize=19;fontColor=#000000;align=center;entryX=0.492;entryY=1.032;entryPerimeter=0;exitX=0.476;exitY=-0.043;exitPerimeter=0;" parent="1" source="FI8OPE-p3hhHVf1YDgqs-27" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="72" y="284" as="sourcePoint" />
-            <mxPoint x="111.00800000000004" y="155.01600000000008" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="FI8OPE-p3hhHVf1YDgqs-33" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#FF99CC;gradientColor=#ffffff;fontFamily=Comic Sans MS;fontSize=19;fontColor=#000000;align=center;" parent="1" vertex="1">
           <mxGeometry x="638" y="-10" width="120" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="FI8OPE-p3hhHVf1YDgqs-37" value="" style="endArrow=classic;startArrow=classic;html=1;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fontFamily=Comic Sans MS;fontSize=19;fontColor=#000000;align=center;entryX=0.504;entryY=-0.021;entryPerimeter=0;edgeStyle=orthogonalEdgeStyle;" parent="1" target="FI8OPE-p3hhHVf1YDgqs-22" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="111" y="212" as="sourcePoint" />
-            <mxPoint x="258" y="188" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="FI8OPE-p3hhHVf1YDgqs-40" value="微博&lt;div&gt;数据库&lt;/div&gt;" style="shape=cube;whiteSpace=wrap;html=1;rounded=0;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontFamily=Comic Sans MS;fontSize=19;fontColor=#000000;align=center;" parent="1" vertex="1">
-          <mxGeometry x="46" y="-62" width="120" height="80" as="geometry" />
+          <mxGeometry x="294" y="-43" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
