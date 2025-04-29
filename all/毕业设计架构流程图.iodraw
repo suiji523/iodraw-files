@@ -208,8 +208,11 @@
         <mxCell id="XMVhFcsvS6gxB7P1DwI4-29" value="" style="endArrow=classic;html=1;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fontFamily=Comic Sans MS;fontSize=19;fontColor=#000000;align=center;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="XMVhFcsvS6gxB7P1DwI4-22">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="259" y="644" as="sourcePoint" />
-            <mxPoint x="490" y="22" as="targetPoint" />
+            <mxPoint x="498" y="34" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="XMVhFcsvS6gxB7P1DwI4-30" value="代码沙箱服务&lt;div&gt;- Docker调用&lt;/div&gt;&lt;div&gt;- 资源隔离&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontFamily=Comic Sans MS;fontSize=19;fontColor=#000000;align=center;" vertex="1" parent="1">
+          <mxGeometry x="205" y="-162" width="177" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
