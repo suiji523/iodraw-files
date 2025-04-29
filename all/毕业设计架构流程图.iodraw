@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="XMVhFcsvS6gxB7P1DwI4-3" value="" style="rounded=0;whiteSpace=wrap;html=1;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontFamily=Comic Sans MS;fontSize=19;fontColor=#000000;align=center;glass=0;shadow=0;dashed=1;" vertex="1" parent="1">
+        <mxCell id="XMVhFcsvS6gxB7P1DwI4-3" value="" style="rounded=0;whiteSpace=wrap;html=1;comic=0;labelBackgroundColor=none;strokeColor=#d6b656;strokeWidth=2;fillColor=#fff2cc;fontFamily=Comic Sans MS;fontSize=19;align=center;glass=0;shadow=0;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="176" y="-970.5" width="629" height="93" as="geometry" />
         </mxCell>
         <mxCell id="XMVhFcsvS6gxB7P1DwI4-1" value="PC端网页" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontFamily=Comic Sans MS;fontSize=19;fontColor=#000000;align=center;" vertex="1" parent="1">
@@ -16,7 +16,7 @@
         <mxCell id="XMVhFcsvS6gxB7P1DwI4-5" value="API网关层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="17" y="-737" width="129" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="XMVhFcsvS6gxB7P1DwI4-6" value="" style="rounded=0;whiteSpace=wrap;html=1;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontFamily=Comic Sans MS;fontSize=19;fontColor=#000000;align=center;glass=0;shadow=0;dashed=1;" vertex="1" parent="1">
+        <mxCell id="XMVhFcsvS6gxB7P1DwI4-6" value="" style="rounded=0;whiteSpace=wrap;html=1;comic=0;labelBackgroundColor=none;strokeColor=#9673a6;strokeWidth=2;fillColor=#e1d5e7;fontFamily=Comic Sans MS;fontSize=19;align=center;glass=0;shadow=0;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="175" y="-829" width="638" height="195.5" as="geometry" />
         </mxCell>
         <mxCell id="XMVhFcsvS6gxB7P1DwI4-7" value="Nginx(负载均衡)&lt;div&gt;- 静态资源管理&amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;- SSL终止&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontFamily=Comic Sans MS;fontSize=19;fontColor=#000000;align=center;" vertex="1" parent="1">
@@ -37,7 +37,7 @@
         <mxCell id="XMVhFcsvS6gxB7P1DwI4-12" value="业务逻辑层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="5" y="-500" width="138" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="XMVhFcsvS6gxB7P1DwI4-13" value="" style="rounded=0;whiteSpace=wrap;html=1;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontFamily=Comic Sans MS;fontSize=19;fontColor=#000000;align=center;glass=0;shadow=0;dashed=1;" vertex="1" parent="1">
+        <mxCell id="XMVhFcsvS6gxB7P1DwI4-13" value="" style="rounded=0;whiteSpace=wrap;html=1;comic=0;labelBackgroundColor=none;strokeColor=#82b366;strokeWidth=2;fillColor=#d5e8d4;fontFamily=Comic Sans MS;fontSize=19;align=center;glass=0;shadow=0;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="173.5" y="-584" width="640" height="195.5" as="geometry" />
         </mxCell>
         <mxCell id="XMVhFcsvS6gxB7P1DwI4-14" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.268;entryY=0.011;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="1" source="XMVhFcsvS6gxB7P1DwI4-7" target="XMVhFcsvS6gxB7P1DwI4-13">
