@@ -153,8 +153,8 @@
         <mxCell id="XMVhFcsvS6gxB7P1DwI4-11" value="HTTPS/HTTP" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="455" y="-553" width="166" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="XMVhFcsvS6gxB7P1DwI4-12" value="API网关层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="-15" y="-378" width="129" height="41" as="geometry" />
+        <mxCell id="XMVhFcsvS6gxB7P1DwI4-12" value="业务逻辑层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="-25" y="-149" width="138" height="41" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
