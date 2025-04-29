@@ -196,10 +196,10 @@
         <mxCell id="XMVhFcsvS6gxB7P1DwI4-23" value="服务通知&lt;div&gt;- 消息队列&lt;/div&gt;&lt;div&gt;- 服务注册&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontFamily=Comic Sans MS;fontSize=19;fontColor=#000000;align=center;" vertex="1" parent="1">
           <mxGeometry x="608" y="-170" width="177" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="XMVhFcsvS6gxB7P1DwI4-28" value="" style="endArrow=classic;startArrow=classic;html=1;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fontFamily=Comic Sans MS;fontSize=19;fontColor=#000000;align=center;entryX=0.428;entryY=0;entryPerimeter=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="XMVhFcsvS6gxB7P1DwI4-30">
+        <mxCell id="XMVhFcsvS6gxB7P1DwI4-28" value="" style="endArrow=classic;startArrow=classic;html=1;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fontFamily=Comic Sans MS;fontSize=19;fontColor=#000000;align=center;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="XMVhFcsvS6gxB7P1DwI4-30">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="396.99" y="60" as="sourcePoint" />
-            <mxPoint x="598.0020000000002" y="57" as="targetPoint" />
+            <mxPoint x="598" y="35" as="targetPoint" />
             <Array as="points">
               <mxPoint x="397" y="-2" />
               <mxPoint x="598" y="-2" />
@@ -222,7 +222,7 @@
           <mxGeometry x="401" y="-176" width="177" height="140" as="geometry" />
         </mxCell>
         <mxCell id="XMVhFcsvS6gxB7P1DwI4-35" value="代码沙箱服务&lt;div&gt;- Docker调用&lt;/div&gt;&lt;div&gt;- 资源隔离&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontFamily=Comic Sans MS;fontSize=19;fontColor=#000000;align=center;" vertex="1" parent="1">
-          <mxGeometry x="514" y="62" width="177" height="140" as="geometry" />
+          <mxGeometry x="510" y="45" width="177" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
