@@ -136,7 +136,7 @@
           <mxGeometry x="-25" y="-388" width="129" height="41" as="geometry" />
         </mxCell>
         <mxCell id="XMVhFcsvS6gxB7P1DwI4-6" value="" style="rounded=0;whiteSpace=wrap;html=1;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontFamily=Comic Sans MS;fontSize=19;fontColor=#000000;align=center;glass=0;shadow=0;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="133" y="-480" width="598" height="195.5" as="geometry" />
+          <mxGeometry x="133" y="-480" width="629" height="195.5" as="geometry" />
         </mxCell>
         <mxCell id="XMVhFcsvS6gxB7P1DwI4-7" value="Nginx(负载均衡)&lt;div&gt;- 静态资源管理&amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;- SSL终止&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontFamily=Comic Sans MS;fontSize=19;fontColor=#000000;align=center;" vertex="1" parent="1">
           <mxGeometry x="197" y="-451" width="177" height="140" as="geometry" />
@@ -177,8 +177,8 @@
         <mxCell id="XMVhFcsvS6gxB7P1DwI4-17" value="用户模块&lt;div&gt;- 权限管理&lt;/div&gt;&lt;div&gt;- 个人中心&lt;/div&gt;&lt;div&gt;- 登陆/注册&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontFamily=Comic Sans MS;fontSize=19;fontColor=#000000;align=center;" vertex="1" parent="1">
           <mxGeometry x="374" y="-146" width="177" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="XMVhFcsvS6gxB7P1DwI4-18" value="用户模块&lt;div&gt;- 权限管理&lt;/div&gt;&lt;div&gt;- 个人中心&lt;/div&gt;&lt;div&gt;- 登陆/注册&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontFamily=Comic Sans MS;fontSize=19;fontColor=#000000;align=center;" vertex="1" parent="1">
-          <mxGeometry x="404" y="-142.25" width="177" height="140" as="geometry" />
+        <mxCell id="XMVhFcsvS6gxB7P1DwI4-18" value="代码沙箱模块&lt;div&gt;- 代码执行&lt;/div&gt;&lt;div&gt;- 沙箱隔离&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontFamily=Comic Sans MS;fontSize=19;fontColor=#000000;align=center;" vertex="1" parent="1">
+          <mxGeometry x="577" y="-142.25" width="177" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
