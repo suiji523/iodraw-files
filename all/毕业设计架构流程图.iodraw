@@ -208,7 +208,7 @@
         <mxCell id="XMVhFcsvS6gxB7P1DwI4-30" value="代码沙箱服务&lt;div&gt;- Docker调用&lt;/div&gt;&lt;div&gt;- 资源隔离&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontFamily=Comic Sans MS;fontSize=19;fontColor=#000000;align=center;" vertex="1" parent="1">
           <mxGeometry x="301" y="97" width="177" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="XMVhFcsvS6gxB7P1DwI4-33" value="" style="endArrow=none;html=1;rounded=0;fontSize=24;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="XMVhFcsvS6gxB7P1DwI4-22">
+        <mxCell id="XMVhFcsvS6gxB7P1DwI4-33" value="" style="endArrow=none;html=1;rounded=0;fontSize=45;exitX=0.5;exitY=1;exitDx=0;exitDy=0;verticalAlign=bottom;" edge="1" parent="1" source="XMVhFcsvS6gxB7P1DwI4-22">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="596" y="158" as="sourcePoint" />
             <mxPoint x="646" y="108" as="targetPoint" />
