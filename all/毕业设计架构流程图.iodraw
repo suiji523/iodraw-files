@@ -236,8 +236,11 @@
         <mxCell id="XMVhFcsvS6gxB7P1DwI4-40" value="MyBatis-plus&lt;div&gt;- 自动CRUD&amp;nbsp;&lt;/div&gt;&lt;div&gt;- 条件构造器&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontFamily=Comic Sans MS;fontSize=19;fontColor=#000000;align=center;" vertex="1" parent="1">
           <mxGeometry x="619" y="350" width="177" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="XMVhFcsvS6gxB7P1DwI4-41" value="服务层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="52" y="-8.5" width="90" height="41" as="geometry" />
+        <mxCell id="XMVhFcsvS6gxB7P1DwI4-41" value="储存层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="51" y="388.25" width="90" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="XMVhFcsvS6gxB7P1DwI4-42" value="" style="rounded=0;whiteSpace=wrap;html=1;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontFamily=Comic Sans MS;fontSize=19;fontColor=#000000;align=center;glass=0;shadow=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="174" y="321" width="640" height="195.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
