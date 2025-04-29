@@ -37,7 +37,7 @@
         <mxCell id="XMVhFcsvS6gxB7P1DwI4-12" value="业务逻辑层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="5" y="-500" width="138" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="XMVhFcsvS6gxB7P1DwI4-13" value="" style="rounded=0;whiteSpace=wrap;html=1;comic=0;labelBackgroundColor=none;strokeColor=#82b366;strokeWidth=2;fillColor=#d5e8d4;fontFamily=Comic Sans MS;fontSize=19;align=center;glass=0;shadow=0;dashed=1;" vertex="1" parent="1">
+        <mxCell id="XMVhFcsvS6gxB7P1DwI4-13" value="" style="rounded=0;whiteSpace=wrap;html=1;comic=0;labelBackgroundColor=none;strokeColor=#005700;strokeWidth=2;fillColor=#008a00;fontFamily=Comic Sans MS;fontSize=19;align=center;glass=0;shadow=0;dashed=1;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="173.5" y="-584" width="640" height="195.5" as="geometry" />
         </mxCell>
         <mxCell id="XMVhFcsvS6gxB7P1DwI4-14" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.268;entryY=0.011;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="1" source="XMVhFcsvS6gxB7P1DwI4-7" target="XMVhFcsvS6gxB7P1DwI4-13">
@@ -64,7 +64,7 @@
         <mxCell id="XMVhFcsvS6gxB7P1DwI4-19" value="服务层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="42" y="-147.5" width="90" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="XMVhFcsvS6gxB7P1DwI4-20" value="" style="rounded=0;whiteSpace=wrap;html=1;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontFamily=Comic Sans MS;fontSize=19;fontColor=#000000;align=center;glass=0;shadow=0;dashed=1;" vertex="1" parent="1">
+        <mxCell id="XMVhFcsvS6gxB7P1DwI4-20" value="" style="rounded=0;whiteSpace=wrap;html=1;comic=0;labelBackgroundColor=none;strokeColor=#6F0000;strokeWidth=2;fillColor=#a20025;fontFamily=Comic Sans MS;fontSize=19;fontColor=#ffffff;align=center;glass=0;shadow=0;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="164" y="-335" width="651" height="416" as="geometry" />
         </mxCell>
         <mxCell id="XMVhFcsvS6gxB7P1DwI4-21" value="代码沙箱服务&lt;div&gt;- Docker调用&lt;/div&gt;&lt;div&gt;- 资源隔离&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontFamily=Comic Sans MS;fontSize=19;fontColor=#000000;align=center;" vertex="1" parent="1">
