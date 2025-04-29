@@ -64,7 +64,7 @@
         <mxCell id="XMVhFcsvS6gxB7P1DwI4-19" value="服务层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="42" y="-147.5" width="90" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="XMVhFcsvS6gxB7P1DwI4-20" value="" style="rounded=0;whiteSpace=wrap;html=1;comic=0;labelBackgroundColor=none;strokeColor=#6F0000;strokeWidth=2;fillColor=#a20025;fontFamily=Comic Sans MS;fontSize=19;fontColor=#ffffff;align=center;glass=0;shadow=0;dashed=1;" vertex="1" parent="1">
+        <mxCell id="XMVhFcsvS6gxB7P1DwI4-20" value="" style="rounded=0;whiteSpace=wrap;html=1;comic=0;labelBackgroundColor=none;strokeColor=#006EAF;strokeWidth=2;fillColor=#1ba1e2;fontFamily=Comic Sans MS;fontSize=19;fontColor=#ffffff;align=center;glass=0;shadow=0;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="164" y="-335" width="651" height="416" as="geometry" />
         </mxCell>
         <mxCell id="XMVhFcsvS6gxB7P1DwI4-21" value="代码沙箱服务&lt;div&gt;- Docker调用&lt;/div&gt;&lt;div&gt;- 资源隔离&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontFamily=Comic Sans MS;fontSize=19;fontColor=#000000;align=center;" vertex="1" parent="1">
@@ -101,7 +101,7 @@
         <mxCell id="XMVhFcsvS6gxB7P1DwI4-35" value="缓存服务&lt;div&gt;- Redis&lt;/div&gt;&lt;div&gt;- 热点数据缓存&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontFamily=Comic Sans MS;fontSize=19;fontColor=#000000;align=center;" vertex="1" parent="1">
           <mxGeometry x="510" y="-84" width="177" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="XMVhFcsvS6gxB7P1DwI4-37" value="" style="rounded=0;whiteSpace=wrap;html=1;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontFamily=Comic Sans MS;fontSize=19;fontColor=#000000;align=center;glass=0;shadow=0;dashed=1;" vertex="1" parent="1">
+        <mxCell id="XMVhFcsvS6gxB7P1DwI4-37" value="" style="rounded=0;whiteSpace=wrap;html=1;comic=0;labelBackgroundColor=none;strokeColor=#BD7000;strokeWidth=2;fillColor=#f0a30a;fontFamily=Comic Sans MS;fontSize=19;fontColor=#000000;align=center;glass=0;shadow=0;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="164" y="124" width="653" height="195.5" as="geometry" />
         </mxCell>
         <mxCell id="XMVhFcsvS6gxB7P1DwI4-38" value="MySQL&lt;div&gt;- 分库分表&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontFamily=Comic Sans MS;fontSize=19;fontColor=#000000;align=center;" vertex="1" parent="1">
@@ -116,7 +116,7 @@
         <mxCell id="XMVhFcsvS6gxB7P1DwI4-41" value="储存层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="51" y="201.25" width="90" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="XMVhFcsvS6gxB7P1DwI4-42" value="" style="rounded=0;whiteSpace=wrap;html=1;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontFamily=Comic Sans MS;fontSize=19;fontColor=#000000;align=center;glass=0;shadow=0;dashed=1;" vertex="1" parent="1">
+        <mxCell id="XMVhFcsvS6gxB7P1DwI4-42" value="" style="rounded=0;whiteSpace=wrap;html=1;comic=0;labelBackgroundColor=none;strokeColor=#b85450;strokeWidth=2;fillColor=#f8cecc;fontFamily=Comic Sans MS;fontSize=19;align=center;glass=0;shadow=0;dashed=1;gradientColor=#ea6b66;" vertex="1" parent="1">
           <mxGeometry x="165" y="367" width="653" height="195.5" as="geometry" />
         </mxCell>
         <mxCell id="XMVhFcsvS6gxB7P1DwI4-43" value="底层基础设施" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" vertex="1" parent="1">
