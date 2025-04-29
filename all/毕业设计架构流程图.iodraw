@@ -199,13 +199,14 @@
         <mxCell id="XMVhFcsvS6gxB7P1DwI4-23" value="服务通知&lt;div&gt;- 消息队列&lt;/div&gt;&lt;div&gt;- 服务注册&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontFamily=Comic Sans MS;fontSize=19;fontColor=#000000;align=center;" vertex="1" parent="1">
           <mxGeometry x="608" y="-170" width="177" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="XMVhFcsvS6gxB7P1DwI4-28" value="" style="endArrow=classic;startArrow=classic;html=1;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fontFamily=Comic Sans MS;fontSize=19;fontColor=#000000;align=center;exitX=0.598;exitY=0.014;exitPerimeter=0;entryX=0.428;entryY=0;entryPerimeter=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1">
+        <mxCell id="XMVhFcsvS6gxB7P1DwI4-28" value="" style="endArrow=classic;startArrow=classic;html=1;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fontFamily=Comic Sans MS;fontSize=19;fontColor=#000000;align=center;exitX=0.5;exitY=0;entryX=0.428;entryY=0;entryPerimeter=0;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;" edge="1" parent="1" source="XMVhFcsvS6gxB7P1DwI4-30">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="396.99" y="94" as="sourcePoint" />
-            <mxPoint x="598.0020000000002" y="91" as="targetPoint" />
+            <mxPoint x="396.99" y="60" as="sourcePoint" />
+            <mxPoint x="598.0020000000002" y="57" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="396.99" y="32" />
-              <mxPoint x="597.99" y="32" />
+              <mxPoint x="397" y="97" />
+              <mxPoint x="397" y="-2" />
+              <mxPoint x="598" y="-2" />
             </Array>
           </mxGeometry>
         </mxCell>
