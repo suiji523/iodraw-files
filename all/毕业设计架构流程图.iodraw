@@ -133,10 +133,10 @@
           <mxGeometry x="9" y="-659.5" width="108" height="48" as="geometry" />
         </mxCell>
         <mxCell id="XMVhFcsvS6gxB7P1DwI4-5" value="API网关层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=30;" vertex="1" parent="1">
-          <mxGeometry x="-39" y="-547" width="156" height="48" as="geometry" />
+          <mxGeometry x="-39" y="-392" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="XMVhFcsvS6gxB7P1DwI4-6" value="" style="rounded=0;whiteSpace=wrap;html=1;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontFamily=Comic Sans MS;fontSize=19;fontColor=#000000;align=center;glass=0;shadow=0;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="138" y="-569.5" width="598" height="93" as="geometry" />
+          <mxGeometry x="133" y="-480" width="598" height="195.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
