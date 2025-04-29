@@ -121,7 +121,7 @@
           <mxGeometry x="638" y="-10" width="120" height="47" as="geometry" />
         </mxCell>
         <mxCell id="FI8OPE-p3hhHVf1YDgqs-40" value="微博&lt;div&gt;数据库&lt;/div&gt;" style="shape=cube;whiteSpace=wrap;html=1;rounded=0;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontFamily=Comic Sans MS;fontSize=19;fontColor=#000000;align=center;" parent="1" vertex="1">
-          <mxGeometry x="294" y="-43" width="120" height="80" as="geometry" />
+          <mxGeometry x="-46" y="212" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="XMVhFcsvS6gxB7P1DwI4-3" value="" style="rounded=0;whiteSpace=wrap;html=1;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontFamily=Comic Sans MS;fontSize=19;fontColor=#000000;align=center;glass=0;shadow=0;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="133" y="-682" width="598" height="93" as="geometry" />
@@ -154,7 +154,7 @@
           <mxGeometry x="455" y="-553" width="166" height="41" as="geometry" />
         </mxCell>
         <mxCell id="XMVhFcsvS6gxB7P1DwI4-12" value="业务逻辑层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="-25" y="-149" width="138" height="41" as="geometry" />
+          <mxGeometry x="-34" y="-151" width="138" height="41" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
