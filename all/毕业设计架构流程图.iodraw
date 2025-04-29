@@ -123,12 +123,6 @@
             <mxPoint x="296" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FI8OPE-p3hhHVf1YDgqs-30" value="" style="endArrow=classic;html=1;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fontFamily=Comic Sans MS;fontSize=19;fontColor=#000000;align=center;entryX=0.513;entryY=1.01;entryPerimeter=0;" parent="1" target="FI8OPE-p3hhHVf1YDgqs-22" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="493" y="343" as="sourcePoint" />
-            <mxPoint x="522" y="376" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="FI8OPE-p3hhHVf1YDgqs-33" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#FF99CC;gradientColor=#ffffff;fontFamily=Comic Sans MS;fontSize=19;fontColor=#000000;align=center;" parent="1" vertex="1">
           <mxGeometry x="638" y="-10" width="120" height="47" as="geometry" />
         </mxCell>
