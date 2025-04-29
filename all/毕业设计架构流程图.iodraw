@@ -150,8 +150,8 @@
             <mxPoint x="356" y="-492" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XMVhFcsvS6gxB7P1DwI4-11" value="HTTPS/HTTP" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="461" y="-548" width="117" height="31" as="geometry" />
+        <mxCell id="XMVhFcsvS6gxB7P1DwI4-11" value="HTTPS/HTTP" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=25;" vertex="1" parent="1">
+          <mxGeometry x="435" y="-548" width="172" height="42" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
