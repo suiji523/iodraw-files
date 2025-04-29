@@ -182,7 +182,7 @@
           <mxGeometry x="419" y="-552" width="177" height="140" as="geometry" />
         </mxCell>
         <mxCell id="XMVhFcsvS6gxB7P1DwI4-18" value="代码沙箱模块&lt;div&gt;- 代码执行&lt;/div&gt;&lt;div&gt;- 沙箱隔离&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontFamily=Comic Sans MS;fontSize=19;fontColor=#000000;align=center;" vertex="1" parent="1">
-          <mxGeometry x="619" y="-547" width="177" height="140" as="geometry" />
+          <mxGeometry x="619" y="-552" width="177" height="140" as="geometry" />
         </mxCell>
         <mxCell id="XMVhFcsvS6gxB7P1DwI4-19" value="服务层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="42" y="-18.5" width="90" height="41" as="geometry" />
@@ -250,6 +250,15 @@
         </mxCell>
         <mxCell id="XMVhFcsvS6gxB7P1DwI4-45" value="Docker容器&lt;div&gt;- 容器化部署&lt;/div&gt;&lt;div&gt;- Kubernetes编排&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontFamily=Comic Sans MS;fontSize=19;fontColor=#000000;align=center;" vertex="1" parent="1">
           <mxGeometry x="525.5" y="632.5" width="177" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="XMVhFcsvS6gxB7P1DwI4-46" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.268;entryY=0.011;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="355" y="-651" as="sourcePoint" />
+            <mxPoint x="355" y="-572" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="355" y="-520" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
