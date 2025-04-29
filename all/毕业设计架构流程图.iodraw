@@ -94,7 +94,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FI8OPE-p3hhHVf1YDgqs-22" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontFamily=Comic Sans MS;fontSize=19;fontColor=#000000;align=center;" parent="1" vertex="1">
-          <mxGeometry x="120" y="70" width="563" height="96" as="geometry" />
+          <mxGeometry x="106" y="-650" width="563" height="96" as="geometry" />
         </mxCell>
         <mxCell id="FI8OPE-p3hhHVf1YDgqs-23" value="分布式爬虫" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontFamily=Comic Sans MS;fontSize=19;fontColor=#000000;align=center;" parent="1" vertex="1">
           <mxGeometry x="219" y="238" width="124" height="70" as="geometry" />
@@ -136,7 +136,7 @@
           <mxGeometry x="294" y="-43" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="XMVhFcsvS6gxB7P1DwI4-1" value="PC端网页" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontFamily=Comic Sans MS;fontSize=19;fontColor=#000000;align=center;" vertex="1" parent="1">
-          <mxGeometry x="339.5" y="83" width="124" height="70" as="geometry" />
+          <mxGeometry x="309" y="-637" width="124" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
