@@ -126,7 +126,7 @@
           <mxGeometry x="-15" y="-105" width="162" height="41" as="geometry" />
         </mxCell>
         <mxCell id="XMVhFcsvS6gxB7P1DwI4-44" value="Linux服务器&lt;div&gt;- 资源调度&lt;/div&gt;&lt;div&gt;- Ubuntu&amp;nbsp;&amp;nbsp;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontFamily=Comic Sans MS;fontSize=19;fontColor=#000000;align=center;arcSize=18;" parent="1" vertex="1">
-          <mxGeometry x="280" y="-131" width="177" height="76" as="geometry" />
+          <mxGeometry x="319" y="-131.75" width="177" height="76" as="geometry" />
         </mxCell>
         <mxCell id="XMVhFcsvS6gxB7P1DwI4-45" value="Docker容器&lt;div&gt;- 容器化部署&lt;/div&gt;&lt;div&gt;- Kubernetes编排&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontFamily=Comic Sans MS;fontSize=19;fontColor=#000000;align=center;arcSize=18;" parent="1" vertex="1">
           <mxGeometry x="530" y="-131" width="177" height="75.25" as="geometry" />
