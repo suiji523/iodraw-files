@@ -20,13 +20,13 @@
           <mxGeometry x="22.5" y="-772" width="129" height="41" as="geometry" />
         </mxCell>
         <mxCell id="XMVhFcsvS6gxB7P1DwI4-6" value="" style="rounded=0;whiteSpace=wrap;html=1;comic=0;labelBackgroundColor=none;strokeColor=#9673a6;strokeWidth=2;fillColor=#e1d5e7;fontFamily=Comic Sans MS;fontSize=19;align=center;glass=0;shadow=0;dashed=1;arcSize=18;" parent="1" vertex="1">
-          <mxGeometry x="176" y="-808" width="637" height="100" as="geometry" />
+          <mxGeometry x="176" y="-831" width="637" height="100" as="geometry" />
         </mxCell>
         <mxCell id="XMVhFcsvS6gxB7P1DwI4-7" value="Nginx(负载均衡)&lt;div&gt;- 静态资源管理&amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;- SSL终止&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontFamily=Comic Sans MS;fontSize=19;fontColor=#000000;align=center;arcSize=18;" parent="1" vertex="1">
-          <mxGeometry x="256" y="-801.25" width="177" height="76.25" as="geometry" />
+          <mxGeometry x="259" y="-819.13" width="177" height="76.25" as="geometry" />
         </mxCell>
         <mxCell id="XMVhFcsvS6gxB7P1DwI4-8" value="Spring Cloud Gateway&lt;div&gt;- 路由分发&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;- 认证鉴权&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontFamily=Comic Sans MS;fontSize=19;fontColor=#000000;align=center;arcSize=18;" parent="1" vertex="1">
-          <mxGeometry x="553" y="-797" width="200" height="77" as="geometry" />
+          <mxGeometry x="548" y="-819.13" width="200" height="77" as="geometry" />
         </mxCell>
         <mxCell id="XMVhFcsvS6gxB7P1DwI4-10" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;exitX=0.522;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;arcSize=18;" parent="1" target="XMVhFcsvS6gxB7P1DwI4-6" edge="1" source="XMVhFcsvS6gxB7P1DwI4-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
