@@ -5,10 +5,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="XMVhFcsvS6gxB7P1DwI4-3" value="" style="rounded=0;whiteSpace=wrap;html=1;comic=0;labelBackgroundColor=none;strokeColor=#d6b656;strokeWidth=2;fillColor=#fff2cc;fontFamily=Comic Sans MS;fontSize=19;align=center;glass=0;shadow=0;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="176" y="-970.5" width="629" height="93" as="geometry" />
+          <mxGeometry x="176" y="-954" width="629" height="76.5" as="geometry" />
         </mxCell>
         <mxCell id="XMVhFcsvS6gxB7P1DwI4-1" value="PC端网页" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontFamily=Comic Sans MS;fontSize=19;fontColor=#000000;align=center;" parent="1" vertex="1">
-          <mxGeometry x="429" y="-959" width="124" height="70" as="geometry" />
+          <mxGeometry x="429" y="-943" width="124" height="54" as="geometry" />
         </mxCell>
         <mxCell id="XMVhFcsvS6gxB7P1DwI4-2" value="客户端" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" parent="1" vertex="1">
           <mxGeometry x="57" y="-936" width="90" height="41" as="geometry" />
