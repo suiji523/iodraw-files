@@ -129,7 +129,7 @@
           <mxGeometry x="277" y="-84.25" width="177" height="76" as="geometry" />
         </mxCell>
         <mxCell id="XMVhFcsvS6gxB7P1DwI4-45" value="Docker容器&lt;div&gt;- 容器化部署&lt;/div&gt;&lt;div&gt;- Kubernetes编排&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontFamily=Comic Sans MS;fontSize=19;fontColor=#000000;align=center;arcSize=18;" parent="1" vertex="1">
-          <mxGeometry x="548" y="-119" width="177" height="74" as="geometry" />
+          <mxGeometry x="530" y="-131" width="177" height="75.25" as="geometry" />
         </mxCell>
         <mxCell id="XMVhFcsvS6gxB7P1DwI4-46" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;arcSize=18;entryX=0.228;entryY=0.006;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="XMVhFcsvS6gxB7P1DwI4-16" edge="1" target="XMVhFcsvS6gxB7P1DwI4-20">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
