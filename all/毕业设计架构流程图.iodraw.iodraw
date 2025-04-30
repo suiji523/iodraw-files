@@ -59,10 +59,10 @@
           <mxGeometry x="224" y="-649" width="177" height="102" as="geometry" />
         </mxCell>
         <mxCell id="XMVhFcsvS6gxB7P1DwI4-17" value="用户模块&lt;div&gt;- 权限管理&lt;/div&gt;&lt;div&gt;- 个人中心&lt;/div&gt;&lt;div&gt;- 登陆/注册&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontFamily=Comic Sans MS;fontSize=19;fontColor=#000000;align=center;arcSize=18;" parent="1" vertex="1">
-          <mxGeometry x="418" y="-651" width="177" height="102" as="geometry" />
+          <mxGeometry x="424" y="-649" width="177" height="102" as="geometry" />
         </mxCell>
         <mxCell id="XMVhFcsvS6gxB7P1DwI4-18" value="代码沙箱模块&lt;div&gt;- 代码执行&lt;/div&gt;&lt;div&gt;- 沙箱隔离&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontFamily=Comic Sans MS;fontSize=19;fontColor=#000000;align=center;arcSize=18;" parent="1" vertex="1">
-          <mxGeometry x="619" y="-552" width="177" height="140" as="geometry" />
+          <mxGeometry x="613" y="-656" width="177" height="105" as="geometry" />
         </mxCell>
         <mxCell id="XMVhFcsvS6gxB7P1DwI4-19" value="服务层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;arcSize=18;" parent="1" vertex="1">
           <mxGeometry x="42" y="-147.5" width="90" height="41" as="geometry" />
