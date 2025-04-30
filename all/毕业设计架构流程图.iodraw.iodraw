@@ -4,11 +4,14 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="9me1JgqmLkg1TwPh8gHZ-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XMVhFcsvS6gxB7P1DwI4-3" target="XMVhFcsvS6gxB7P1DwI4-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="XMVhFcsvS6gxB7P1DwI4-3" value="" style="rounded=0;whiteSpace=wrap;html=1;comic=0;labelBackgroundColor=none;strokeColor=#d6b656;strokeWidth=2;fillColor=#fff2cc;fontFamily=Comic Sans MS;fontSize=19;align=center;glass=0;shadow=0;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="176" y="-954" width="629" height="76.5" as="geometry" />
+          <mxGeometry x="177" y="-943" width="629" height="76.5" as="geometry" />
         </mxCell>
         <mxCell id="XMVhFcsvS6gxB7P1DwI4-1" value="PC端网页" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontFamily=Comic Sans MS;fontSize=19;fontColor=#000000;align=center;" parent="1" vertex="1">
-          <mxGeometry x="429" y="-943" width="124" height="54" as="geometry" />
+          <mxGeometry x="429.5" y="-931.75" width="124" height="54" as="geometry" />
         </mxCell>
         <mxCell id="XMVhFcsvS6gxB7P1DwI4-2" value="客户端" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" parent="1" vertex="1">
           <mxGeometry x="57" y="-936" width="90" height="41" as="geometry" />
