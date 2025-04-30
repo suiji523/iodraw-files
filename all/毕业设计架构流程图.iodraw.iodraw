@@ -59,16 +59,16 @@
           <mxGeometry x="224" y="-689.5" width="177" height="102" as="geometry" />
         </mxCell>
         <mxCell id="XMVhFcsvS6gxB7P1DwI4-17" value="用户模块&lt;div&gt;- 权限管理&lt;/div&gt;&lt;div&gt;- 个人中心&lt;/div&gt;&lt;div&gt;- 登陆/注册&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontFamily=Comic Sans MS;fontSize=19;fontColor=#000000;align=center;arcSize=18;" parent="1" vertex="1">
-          <mxGeometry x="423" y="-663" width="177" height="102" as="geometry" />
+          <mxGeometry x="425" y="-689.5" width="177" height="102" as="geometry" />
         </mxCell>
         <mxCell id="XMVhFcsvS6gxB7P1DwI4-18" value="代码沙箱模块&lt;div&gt;- 代码执行&lt;/div&gt;&lt;div&gt;- 沙箱隔离&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontFamily=Comic Sans MS;fontSize=19;fontColor=#000000;align=center;arcSize=18;" parent="1" vertex="1">
-          <mxGeometry x="616" y="-661.25" width="177" height="100.25" as="geometry" />
+          <mxGeometry x="619" y="-687.75" width="177" height="100.25" as="geometry" />
         </mxCell>
         <mxCell id="XMVhFcsvS6gxB7P1DwI4-19" value="服务层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;arcSize=18;" parent="1" vertex="1">
           <mxGeometry x="42" y="-147.5" width="90" height="41" as="geometry" />
         </mxCell>
         <mxCell id="XMVhFcsvS6gxB7P1DwI4-20" value="" style="rounded=0;whiteSpace=wrap;html=1;comic=0;labelBackgroundColor=none;strokeColor=#006EAF;strokeWidth=2;fillColor=#1ba1e2;fontFamily=Comic Sans MS;fontSize=19;fontColor=#ffffff;align=center;glass=0;shadow=0;dashed=1;arcSize=18;" parent="1" vertex="1">
-          <mxGeometry x="164" y="-513" width="651" height="416" as="geometry" />
+          <mxGeometry x="165" y="-537" width="651" height="416" as="geometry" />
         </mxCell>
         <mxCell id="XMVhFcsvS6gxB7P1DwI4-21" value="代码沙箱服务&lt;div&gt;- Docker调用&lt;/div&gt;&lt;div&gt;- 资源隔离&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontFamily=Comic Sans MS;fontSize=19;fontColor=#000000;align=center;arcSize=18;" parent="1" vertex="1">
           <mxGeometry x="195" y="-301" width="177" height="140" as="geometry" />
@@ -131,7 +131,7 @@
         <mxCell id="XMVhFcsvS6gxB7P1DwI4-45" value="Docker容器&lt;div&gt;- 容器化部署&lt;/div&gt;&lt;div&gt;- Kubernetes编排&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontFamily=Comic Sans MS;fontSize=19;fontColor=#000000;align=center;arcSize=18;" parent="1" vertex="1">
           <mxGeometry x="527" y="400" width="177" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="XMVhFcsvS6gxB7P1DwI4-46" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;arcSize=18;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="1" source="XMVhFcsvS6gxB7P1DwI4-16" edge="1" target="XMVhFcsvS6gxB7P1DwI4-20">
+        <mxCell id="XMVhFcsvS6gxB7P1DwI4-46" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;arcSize=18;entryX=0.228;entryY=0.006;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="XMVhFcsvS6gxB7P1DwI4-16" edge="1" target="XMVhFcsvS6gxB7P1DwI4-20">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="355" y="-651" as="sourcePoint" />
             <mxPoint x="310" y="-335" as="targetPoint" />
