@@ -96,7 +96,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XMVhFcsvS6gxB7P1DwI4-30" value="数据库操作&lt;div&gt;- JDBC&lt;/div&gt;&lt;div&gt;- 连接池管理&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontFamily=Comic Sans MS;fontSize=19;fontColor=#000000;align=center;arcSize=18;" parent="1" vertex="1">
-          <mxGeometry x="330" y="-396.5" width="177" height="86" as="geometry" />
+          <mxGeometry x="328" y="-393" width="177" height="74.5" as="geometry" />
         </mxCell>
         <mxCell id="XMVhFcsvS6gxB7P1DwI4-22" value="事务管理&lt;div&gt;- 分布式事务&lt;/div&gt;&lt;div&gt;- 一致性保证&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontFamily=Comic Sans MS;fontSize=19;fontColor=#000000;align=center;arcSize=18;" parent="1" vertex="1">
           <mxGeometry x="429.5" y="-525" width="177" height="79" as="geometry" />
