@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0" version="24.7.17">
   <diagram id="P-FLB3ng-8zm5jahk_r2" name="Page-1">
-    <mxGraphModel dx="589" dy="1301" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="728" dy="1375" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -76,13 +76,14 @@
         <mxCell id="XMVhFcsvS6gxB7P1DwI4-23" value="服务通知&lt;div&gt;- 消息队列&lt;/div&gt;&lt;div&gt;- 服务注册&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontFamily=Comic Sans MS;fontSize=19;fontColor=#000000;align=center;arcSize=18;" parent="1" vertex="1">
           <mxGeometry x="629" y="-525" width="177" height="79" as="geometry" />
         </mxCell>
-        <mxCell id="XMVhFcsvS6gxB7P1DwI4-28" value="" style="endArrow=classic;startArrow=classic;html=1;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fontFamily=Comic Sans MS;fontSize=19;fontColor=#000000;align=center;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;arcSize=18;" parent="1" edge="1">
+        <mxCell id="XMVhFcsvS6gxB7P1DwI4-28" value="" style="endArrow=classic;startArrow=classic;html=1;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fontFamily=Comic Sans MS;fontSize=19;fontColor=#000000;align=center;edgeStyle=orthogonalEdgeStyle;entryX=0.573;entryY=-0.002;entryDx=0;entryDy=0;arcSize=18;entryPerimeter=0;" parent="1" target="XMVhFcsvS6gxB7P1DwI4-35" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="421.0100000000002" y="-380.01" as="sourcePoint" />
-            <mxPoint x="631.5100000000002" y="-383.01" as="targetPoint" />
+            <mxPoint x="418.5000000000002" y="-380.01" as="sourcePoint" />
+            <mxPoint x="629.0000000000002" y="-383.01" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="421.01" y="-432.01" />
-              <mxPoint x="622.01" y="-432.01" />
+              <mxPoint x="419" y="-432" />
+              <mxPoint x="620" y="-432" />
+              <mxPoint x="620" y="-369" />
             </Array>
           </mxGeometry>
         </mxCell>
