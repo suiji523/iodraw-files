@@ -78,12 +78,11 @@
         </mxCell>
         <mxCell id="XMVhFcsvS6gxB7P1DwI4-28" value="" style="endArrow=classic;startArrow=classic;html=1;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fontFamily=Comic Sans MS;fontSize=19;fontColor=#000000;align=center;edgeStyle=orthogonalEdgeStyle;arcSize=18;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="415.0800000000002" y="-382.01" as="sourcePoint" />
+            <mxPoint x="415" y="-393" as="sourcePoint" />
             <mxPoint x="619" y="-393" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="415" y="-432" />
-              <mxPoint x="620" y="-432" />
-              <mxPoint x="620" y="-393" />
+              <mxPoint x="415.58" y="-432" />
+              <mxPoint x="618.58" y="-432" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -97,13 +96,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XMVhFcsvS6gxB7P1DwI4-30" value="数据库操作&lt;div&gt;- JDBC&lt;/div&gt;&lt;div&gt;- 连接池管理&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontFamily=Comic Sans MS;fontSize=19;fontColor=#000000;align=center;arcSize=18;" parent="1" vertex="1">
-          <mxGeometry x="311" y="-352" width="177" height="140" as="geometry" />
+          <mxGeometry x="330" y="-396.5" width="177" height="86" as="geometry" />
         </mxCell>
         <mxCell id="XMVhFcsvS6gxB7P1DwI4-22" value="事务管理&lt;div&gt;- 分布式事务&lt;/div&gt;&lt;div&gt;- 一致性保证&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontFamily=Comic Sans MS;fontSize=19;fontColor=#000000;align=center;arcSize=18;" parent="1" vertex="1">
           <mxGeometry x="429.5" y="-525" width="177" height="79" as="geometry" />
         </mxCell>
         <mxCell id="XMVhFcsvS6gxB7P1DwI4-35" value="缓存服务&lt;div&gt;- Redis&lt;/div&gt;&lt;div&gt;- 热点数据缓存&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontFamily=Comic Sans MS;fontSize=19;fontColor=#000000;align=center;arcSize=18;" parent="1" vertex="1">
-          <mxGeometry x="514" y="-362" width="177" height="79" as="geometry" />
+          <mxGeometry x="512" y="-393" width="177" height="79" as="geometry" />
         </mxCell>
         <mxCell id="XMVhFcsvS6gxB7P1DwI4-37" value="" style="rounded=0;whiteSpace=wrap;html=1;comic=0;labelBackgroundColor=none;strokeColor=#BD7000;strokeWidth=2;fillColor=#f0a30a;fontFamily=Comic Sans MS;fontSize=19;fontColor=#000000;align=center;glass=0;shadow=0;dashed=1;arcSize=18;" parent="1" vertex="1">
           <mxGeometry x="164" y="124" width="653" height="195.5" as="geometry" />
