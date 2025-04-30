@@ -74,15 +74,15 @@
           <mxGeometry x="228" y="-525" width="177" height="77" as="geometry" />
         </mxCell>
         <mxCell id="XMVhFcsvS6gxB7P1DwI4-23" value="服务通知&lt;div&gt;- 消息队列&lt;/div&gt;&lt;div&gt;- 服务注册&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontFamily=Comic Sans MS;fontSize=19;fontColor=#000000;align=center;arcSize=18;" parent="1" vertex="1">
-          <mxGeometry x="629" y="-525" width="177" height="140" as="geometry" />
+          <mxGeometry x="629" y="-525" width="177" height="79" as="geometry" />
         </mxCell>
         <mxCell id="XMVhFcsvS6gxB7P1DwI4-28" value="" style="endArrow=classic;startArrow=classic;html=1;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fontFamily=Comic Sans MS;fontSize=19;fontColor=#000000;align=center;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;arcSize=18;" parent="1" source="XMVhFcsvS6gxB7P1DwI4-30" target="XMVhFcsvS6gxB7P1DwI4-35" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="396.99" y="-69" as="sourcePoint" />
             <mxPoint x="598" y="-94" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="397" y="-131" />
-              <mxPoint x="598" y="-131" />
+              <mxPoint x="397" y="-358" />
+              <mxPoint x="598" y="-358" />
             </Array>
           </mxGeometry>
         </mxCell>
