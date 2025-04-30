@@ -65,7 +65,7 @@
           <mxGeometry x="619" y="-687.75" width="177" height="100.25" as="geometry" />
         </mxCell>
         <mxCell id="XMVhFcsvS6gxB7P1DwI4-19" value="服务层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;arcSize=18;" parent="1" vertex="1">
-          <mxGeometry x="45" y="-245.38" width="90" height="41" as="geometry" />
+          <mxGeometry x="44" y="-421" width="90" height="41" as="geometry" />
         </mxCell>
         <mxCell id="XMVhFcsvS6gxB7P1DwI4-20" value="" style="rounded=0;whiteSpace=wrap;html=1;comic=0;labelBackgroundColor=none;strokeColor=#006EAF;strokeWidth=2;fillColor=#1ba1e2;fontFamily=Comic Sans MS;fontSize=19;fontColor=#ffffff;align=center;glass=0;shadow=0;dashed=1;arcSize=18;" parent="1" vertex="1">
           <mxGeometry x="165" y="-537" width="651" height="229" as="geometry" />
@@ -117,13 +117,13 @@
           <mxGeometry x="619" y="-261" width="177" height="70.62" as="geometry" />
         </mxCell>
         <mxCell id="XMVhFcsvS6gxB7P1DwI4-41" value="储存层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;arcSize=18;" parent="1" vertex="1">
-          <mxGeometry x="39" y="-65" width="90" height="41" as="geometry" />
+          <mxGeometry x="48" y="-245.38" width="90" height="41" as="geometry" />
         </mxCell>
         <mxCell id="XMVhFcsvS6gxB7P1DwI4-42" value="" style="rounded=0;whiteSpace=wrap;html=1;comic=0;labelBackgroundColor=none;strokeColor=#b85450;strokeWidth=2;fillColor=#f8cecc;fontFamily=Comic Sans MS;fontSize=19;align=center;glass=0;shadow=0;dashed=1;gradientColor=#ea6b66;arcSize=18;" parent="1" vertex="1">
           <mxGeometry x="169.5" y="-144" width="653" height="195.5" as="geometry" />
         </mxCell>
         <mxCell id="XMVhFcsvS6gxB7P1DwI4-43" value="底层基础设施" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;arcSize=18;" parent="1" vertex="1">
-          <mxGeometry x="-20.5" y="455" width="162" height="41" as="geometry" />
+          <mxGeometry x="-10.5" y="417" width="162" height="41" as="geometry" />
         </mxCell>
         <mxCell id="XMVhFcsvS6gxB7P1DwI4-44" value="Linux服务器&lt;div&gt;- 资源调度&lt;/div&gt;&lt;div&gt;- Ubuntu&amp;nbsp;&amp;nbsp;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontFamily=Comic Sans MS;fontSize=19;fontColor=#000000;align=center;arcSize=18;" parent="1" vertex="1">
           <mxGeometry x="228" y="-112" width="177" height="140" as="geometry" />
